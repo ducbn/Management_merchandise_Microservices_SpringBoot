@@ -1,2 +1,2 @@
 # Management_merchandise_Microservices_SpringBoot
-![Uploading Ảnh màn hình 2025-01-15 lúc 03.05.57.png…]()
+![Architechture](https://drive.google.com/file/d/1bZPmk8rd1lanlc1h_Vq7QLdkt-7uFOEK/view?usp=drive_link)
